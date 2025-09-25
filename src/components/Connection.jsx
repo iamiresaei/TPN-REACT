@@ -3,12 +3,12 @@ export function Connection() {
     return(
         <div id="connection" className="connection-bar">
             <div className="connection-txt">
-                <h1><i class="fa-solid fa-cart-arrow-down fa-beat-fade"></i> دانلود کانکشن</h1>
+                <h1><i className="fa-solid fa-cart-arrow-down fa-beat-fade"></i> دانلود کانکشن</h1>
             </div>
             <div className="connection">
             <div className="connection-card">
                     <div className="connection-img">
-                        <i class="fa-brands fa-windows"></i>
+                        <i className="fa-brands fa-windows"></i>
                     </div>
                     <div className="connection-h1">
                         <h1>دانلود کانکشن برای</h1>
@@ -16,13 +16,13 @@ export function Connection() {
                     </div>
                     <div className="connection-i">
                         <a href="https://www.wireguard.com/install/" target="_blank">
-                            <i class="fa-solid fa-download"></i>
+                            <i className="fa-solid fa-download"></i>
                         </a>
                     </div>
                 </div>
                 <div className="connection-card">
                     <div className="connection-img">
-                        <i class="fa-brands fa-android"></i>
+                        <i className="fa-brands fa-android"></i>
                     </div>
                     <div className="connection-h1">
                         <h1>دانلود کانکشن برای</h1>
@@ -30,13 +30,13 @@ export function Connection() {
                     </div>
                     <div className="connection-i">
                         <a href="https://www.wireguard.com/install/" target="_blank">
-                            <i class="fa-solid fa-download"></i>
+                            <i className="fa-solid fa-download"></i>
                         </a>
                     </div>
                 </div>
                 <div className="connection-card">
                     <div className="connection-img">
-                        <i class="fa-brands fa-apple"></i>
+                        <i className="fa-brands fa-apple"></i>
                     </div>
                     <div className="connection-h1">
                         <h1>دانلود کانکشن برای</h1>
@@ -44,13 +44,13 @@ export function Connection() {
                     </div>
                     <div className="connection-i">
                         <a href="https://www.wireguard.com/install/" target="_blank">
-                            <i class="fa-solid fa-download"></i>
+                            <i className="fa-solid fa-download"></i>
                         </a>
                     </div>
                 </div>
                 <div className="connection-card">
                     <div className="connection-img">
-                        <i class="fa-brands fa-app-store-ios"></i>
+                        <i className="fa-brands fa-app-store-ios"></i>
                     </div>
                     <div className="connection-h1">
                         <h1>دانلود کانکشن برای</h1>
@@ -58,7 +58,7 @@ export function Connection() {
                     </div>
                     <div className="connection-i">
                         <a href="https://www.wireguard.com/install/" target="_blank">
-                            <i class="fa-solid fa-download"></i>
+                            <i className="fa-solid fa-download"></i>
                         </a>
                     </div>
                 </div>

@@ -22,45 +22,45 @@ export function Header() {
             <div className={`menu ${isOpen ? 'open' : ''}`}>
                 <ul>
                     <li>
-                        <a className="nav-link" href="#"><i class="fa-solid fa-cart-arrow-down "></i> خرید سرویس</a>
+                        <a className="nav-link" href="#"><i className="fa-solid fa-cart-arrow-down "></i> خرید سرویس</a>
                     </li>
                     <li>
-                        <a className="nav-link" href="#"><i class="fa-solid fa-download"></i> کانکشن</a>
+                        <a className="nav-link" href="#"><i className="fa-solid fa-download"></i> کانکشن</a>
                     </li>
                     <li>
-                        <a className="nav-link" href="https://zil.ink/amirrazor?fbclid=pazxh0bgnhzw0cmteaaab-sebski-smxcnctoyerzarparos9yusiiesifrpoicaa9vfsfovvqgn0_aem_iqwpzpquoa_0mbntxf0ojq" target="_blank"><i class="fa-solid fa-phone-volume"></i> ارتباط</a>
+                        <a className="nav-link" href="https://zil.ink/amirrazor?fbclid=pazxh0bgnhzw0cmteaaab-sebski-smxcnctoyerzarparos9yusiiesifrpoicaa9vfsfovvqgn0_aem_iqwpzpquoa_0mbntxf0ojq" target="_blank" rel="noopener noreferrer"><i className="fa-solid fa-phone-volume"></i> ارتباط</a>
                     </li>
                     <li>
-                        <a className="nav-link" href="#"><i class="fa-solid fa-circle-user"></i> درباره</a>
+                        <a className="nav-link" href="#"><i className="fa-solid fa-circle-user"></i> درباره</a>
                     </li>
                 </ul>
             </div>
             </div>
             <div className="logo-bar">
                 <div className="logo">
-                    <img src="../images/other/tpn1.png" alt="" />
+                    <img src="/images/other/tpn1.png" alt="لوگوی TPN" />
                 </div>
             </div>
             <nav className="nav-bar">
                 <div className="nav">
-                    <a className="nav-link" href="#"><i class="fa-solid fa-cart-arrow-down "></i> خرید سرویس</a>
+                    <a className="nav-link" href="#"><i className="fa-solid fa-cart-arrow-down "></i> خرید سرویس</a>
                 </div>
                 <div className="nav">
-                    <a className="nav-link" href="#"><i class="fa-solid fa-download"></i> کانکشن</a>
+                    <a className="nav-link" href="#"><i className="fa-solid fa-download"></i> کانکشن</a>
                 </div>
                 <div className="nav">
-                    <a className="nav-link" href="https://zil.ink/amirrazor?fbclid=pazxh0bgnhzw0cmteaaab-sebski-smxcnctoyerzarparos9yusiiesifrpoicaa9vfsfovvqgn0_aem_iqwpzpquoa_0mbntxf0ojq" target="_blank"><i class="fa-solid fa-phone-volume"></i> ارتباط</a>
+                    <a className="nav-link" href="https://zil.ink/amirrazor?fbclid=pazxh0bgnhzw0cmteaaab-sebski-smxcnctoyerzarparos9yusiiesifrpoicaa9vfsfovvqgn0_aem_iqwpzpquoa_0mbntxf0ojq" target="_blank" rel="noopener noreferrer"><i className="fa-solid fa-phone-volume"></i> ارتباط</a>
                 </div>
                 <div className="nav">
-                    <a className="nav-link" href="#"><i class="fa-solid fa-circle-user"></i> درباره</a>
+                    <a className="nav-link" href="#"><i className="fa-solid fa-circle-user"></i> درباره</a>
                 </div>
             </nav>
             <div className="user-bar">
                 <div className="cart">
-                    <i class="fa-solid fa-basket-shopping"></i>
+                    <i className="fa-solid fa-basket-shopping"></i>
                 </div>
                 <div className="login">
-                    <i class="fa-solid fa-right-to-bracket"></i>
+                    <i className="fa-solid fa-right-to-bracket"></i>
                     <a href="#">ورود</a>
                 </div>
             </div>

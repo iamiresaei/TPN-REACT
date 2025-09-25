@@ -16,16 +16,18 @@ import './styles/fontawesome/css/all.css'
 function App() {
 
   return (
-    <body>
+    <div className="app">
       <Header />
-      <Banner />
-      <OptionCard />
-      <Country />
-      <Service />
-      <Connection />
+      <main>
+        <Banner />
+        <OptionCard />
+        <Country />
+        <Service />
+        <Connection />
+      </main>
       <Footer />
       <p className='developer'>.Copyright © 2024  iamiresaei . All rights reserved</p>
-    </body>
+    </div>
   )
 }
 

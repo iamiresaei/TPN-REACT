@@ -1,0 +1,36 @@
+{
+  "name": "TPN - تی پی ان قطع نمیشه!",
+  "short_name": "TPN",
+  "description": "خرید VPN با سرورهای اختصاصی و کیفیت بالا",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#252B48",
+  "theme_color": "#5B9A8B",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/images/other/tpn1.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/other/tpn1.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "productivity", "security"],
+  "screenshots": [
+    {
+      "src": "/images/other/tpn1.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}

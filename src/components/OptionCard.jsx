@@ -4,12 +4,12 @@ export function OptionCard() {
         <div id="buy" className="option-card-bar">
             <div className="option-card-txt">
                 <h1>مزایای استفاده از سرویس های ما</h1>
-                <i class="fa-solid fa-angles-down fa-bounce"></i>
+                <i className="fa-solid fa-angles-down fa-bounce"></i>
             </div>
             <div className="option-cards">
                 <div className="option-card">
                     <div className="option-i">
-                        <i class="fa-solid fa-money-check-dollar"></i>
+                        <i className="fa-solid fa-money-check-dollar"></i>
                     </div>
                     <div className="option-h1">
                         <h1>هزینه کمتر، قابلیت بیشتر</h1>
@@ -20,7 +20,7 @@ export function OptionCard() {
                 </div>
                 <div className="option-card">
                     <div className="option-i">
-                        <i class="fa-brands fa-windows"></i>
+                        <i className="fa-brands fa-windows"></i>
                     </div>
                     <div className="option-h1">
                         <h1>سازگار با تمامی سیستم ها</h1>
@@ -31,7 +31,7 @@ export function OptionCard() {
                 </div>
                 <div className="option-card">
                     <div className="option-i">
-                        <i class="fa-solid fa-cloud-arrow-down"></i>
+                        <i className="fa-solid fa-cloud-arrow-down"></i>
                     </div>
                     <div className="option-h1">
                         <h1>حجم مصرف منصفانه</h1>
@@ -42,7 +42,7 @@ export function OptionCard() {
                 </div>
                 <div className="option-card">
                     <div className="option-i">
-                        <i class="fa-solid fa-jet-fighter"></i>
+                        <i className="fa-solid fa-jet-fighter"></i>
                     </div>
                     <div className="option-h1">
                         <h1>دریافت آنی اکانت</h1>
@@ -53,7 +53,7 @@ export function OptionCard() {
                 </div>
                 <div className="option-card">
                     <div className="option-i">
-                        <i class="fa-solid fa-user-shield"></i>
+                        <i className="fa-solid fa-user-shield"></i>
                     </div>
                     <div className="option-h1">
                         <h1>خرید امن و آسان</h1>
@@ -64,7 +64,7 @@ export function OptionCard() {
                 </div>
                 <div className="option-card">
                     <div className="option-i">
-                        <i class="fa-solid fa-headphones-simple"></i>
+                        <i className="fa-solid fa-headphones-simple"></i>
                     </div>
                     <div className="option-h1">
                         <h1>پشتیبانی سریع و پاسخگو</h1>
